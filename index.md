@@ -9,7 +9,7 @@ Olvida los hechos aburridos, las pruebas engorrosas o los argumentos. Aquí, la 
 Por que quien puede tomar enserio a alguien que habla asi
 Piri qui isti pisindi iqui!!
 
-Descarga la app [aqui.](https://apps.apple.com/us/app/id1518675459)
+Descarga la app [aqui.](https://apps.apple.com/us/app/id6744012407)
 
 ### Política de Privacidad
 
