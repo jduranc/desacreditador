@@ -11,18 +11,6 @@ Piri qui isti pisindi iqui!!
 
 Descarga la app [aqui.](https://apps.apple.com/us/app/id1518675459)
 
-### Te ha sido util la app, considera ayudarnos con una donación
-
-Would you like support this app? Please consider donate.
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="PJ2LHWPCP3WN8" />
-<input type="hidden" name="currency_code" value="MXN" />
-<input type="image" src="https://www.paypalobjects.com/en_US/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_MX/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
 ### Política de Privacidad
 
 Gracias por utilizar nuestra aplicación. La privacidad de nuestros usuarios es una prioridad para nosotros. Esta Política de Privacidad explica cómo manejamos la información dentro de nuestra aplicación.
