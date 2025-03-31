@@ -23,7 +23,6 @@ Would you like support this app? Please consider donate.
 <img alt="" border="0" src="https://www.paypal.com/en_MX/i/scr/pixel.gif" width="1" height="1" />
 </form>
 
-
 ### Política de Privacidad
 
 Gracias por utilizar nuestra aplicación. La privacidad de nuestros usuarios es una prioridad para nosotros. Esta Política de Privacidad explica cómo manejamos la información dentro de nuestra aplicación.
