@@ -1,12 +1,17 @@
-## Welcome to iBorder
+## Bienvenidos a la app Desacreditador
 
-Save time when crossing into the United States, check the waiting times reported by CBP, check the traffic map in real time, receive notifications when the waiting time is less than you decide, use our widget and stay informed without opening the app , all this for free.
+¿Estas perdiendo una discusión? ¿Te quedaste en blanco justo cuando más importaba? ¿Te tienen contra las cuerdas y solo ves una derrota inminente? ¡No te preocupes más! Con nuestra app, vas a salir de esa como un campeón, ¡y con un minimo de esfuerzo!
 
-Download [here.](https://apps.apple.com/us/app/id1518675459)
+Olvida los hechos aburridos, las pruebas engorrosas o los argumentos. Aquí, la clave es soltar un mensaje épico que deje a tu oponente con cara de payaso y preguntándose qué demonios pasó.
 
-### Support or Contact
+¡Sí, lo leíste bien! La desacreditación, esa arma secreta que los abogados al rededor del mundo usan para ganar juicios (bueno, a veces...), ¡ahora está en tus manos! 
 
-Having trouble or suggestions for us? [contact support](mailto:luisdurancota@gmail.com) and we’ll happy to hear about you.
+Por que quien puede tomar enserio a alguien que habla asi
+Piri qui isti pisindi iqui!!
+
+Descarga la app [aqui.](https://apps.apple.com/us/app/id1518675459)
+
+### Te ha sido util la app, considera ayudarnos con una donación
 
 Would you like support this app? Please consider donate.
 
@@ -19,41 +24,39 @@ Would you like support this app? Please consider donate.
 </form>
 
 
-### Privacy Policy
+### Política de Privacidad
 
-iBorder app respect the privacy of our customers.
-The following policy briefly outlines the personally identifiable information that we collect from our customers and prospective customers, and the steps that we take to safeguard their privacy. 
+Gracias por utilizar nuestra aplicación. La privacidad de nuestros usuarios es una prioridad para nosotros. Esta Política de Privacidad explica cómo manejamos la información dentro de nuestra aplicación.
 
-1. What Kind of Information We Collect.
+#### Recopilación y Uso de Datos
 
-1.1 Personal Information
-We do not collect Personal Information. "Personal Information" is information that identifies you or another person, which may be transmitted or received when you use an Application, the Services and/or the Site.
+Nuestra aplicación no recopila, almacena ni procesa ningún dato personal de los usuarios. No solicitamos ningún tipo de información personal ni accedemos a datos almacenados en su dispositivo.
 
-Since we do not collect Personal Information, we may not use your personal information in any way.
+#### Publicidad
 
-1.2 Non-Personal Information
-We may collect Non-Personal Information about users whenever they interact with our apps. Non-Personal Information may include the information about your devices, and technical information about users means of connection to our apps, such as the versions of phone model and other similar information.
+Utilizamos Google Ads para mostrar anuncios dentro de la aplicación. Google Ads puede recopilar ciertos datos de los usuarios según sus propias políticas de privacidad con el fin de proporcionar anuncios personalizados. Para obtener más información sobre cómo Google maneja los datos, puede consultar la Política de Privacidad de Google en el siguiente enlace: https://policies.google.com/privacy
 
-2. How We Use Collected Information
+#### Compartición de Datos
 
-2.1 Personal Information
-Since we do not collect Personal Information, we may not use your personal information in any way.
+No compartimos, vendemos ni transferimos ningún dato a terceros. Toda la información recopilada a través de Google Ads es manejada exclusivamente por Google según sus términos y políticas.
 
-2.2 Non- Personal Information
-We may use Non-Personal Information for any purpose as below:
-(a) We may use Non- Personal Information for promotion and marketing purposes.
-(b) To personalize user experience. We may use your Non- Personal Information to understand demographics, customer interest, and other trends among our users;
-(c) To help develop our service. We may use Non- Personal Information to provide, maintain, improve and modify the Applications, Services ;
-Sharing and/or Disclosing Information
-Information about our customers is not an important part of our business. We DO NOT sell or share our customers information.
+#### Seguridad
 
-3. Our Spam Policy
-We will not engage in spamming, and the use of our services for spamming will not be tolerated. We would encourage anyone receiving spam purporting to be from us, or anyone witnessing one of our customers using our service to spam others, to report the incident to us.
+Dado que nuestra aplicación no recopila ni almacena datos de usuarios, no hay información que deba protegerse en este aspecto. Sin embargo, recomendamos revisar las configuraciones de privacidad de su dispositivo y su cuenta de Google para mayor control sobre los anuncios personalizados.
 
-4. Contacting Us
-If you have any questions or comments about this Policy or our privacy practices, or to report any violations of the Policy or abuse of an Application, the Services or the Site, please contact us at luisdurancota@gmail.com.
+#### Derechos del Usuario
 
-Changes to This Privacy Policy
-Please be aware that our privacy policy may change from time to time. A current, time-stamped version will always be available on this page. Where changes are deemed significant we will endeavours to provide a more prominent notice or may contact our customers directly.
+Dado que no recopilamos información personal, no hay datos que puedan ser accedidos, modificados o eliminados. Si desea gestionar la información recopilada por Google Ads, puede hacerlo a través de su cuenta de Google en: https://adssettings.google.com/
 
-Last update: June 16, 2020
+#### Cambios en esta Política de Privacidad
+
+Podemos actualizar esta Política de Privacidad en el futuro. Cualquier cambio será notificado dentro de la aplicación o a través de otro medio apropiado.
+
+#### Contacto
+
+Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos en:  [Soporte](mailto:luisdurancota@gmail.com)
+
+Al utilizar nuestra aplicación, usted acepta los términos de esta Política de Privacidad.
+
+Última actualización: 1 / Abril / 2025
+
