@@ -45,5 +45,6 @@ Si tiene alguna pregunta sobre esta Política de Privacidad, puede contactarnos 
 
 Al utilizar nuestra aplicación, usted acepta los términos de esta Política de Privacidad.
 
-Última actualización: 1 / Abril / 2025
+#### Ultima actualización 
+31 / Marzo / 2025
 
