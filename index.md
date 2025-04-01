@@ -33,7 +33,7 @@ Dado que nuestra aplicación no recopila ni almacena datos de usuarios, no hay i
 
 #### Derechos del Usuario
 
-Dado que no recopilamos información personal, no hay datos que puedan ser accedidos, modificados o eliminados. Si desea gestionar la información recopilada por Google Ads, puede hacerlo a través de su cuenta de Google en: https://adssettings.google.com/
+Dado que no recopilamos información personal, no hay datos que puedan ser accedidos, modificados o eliminados. Si desea gestionar la información recopilada por Google Ads, puede hacerlo a través de su cuenta de Google en: [aqui.](https://adssettings.google.com/)
 
 #### Cambios en esta Política de Privacidad
 
