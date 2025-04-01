@@ -21,7 +21,7 @@ Nuestra aplicación no recopila, almacena ni procesa ningún dato personal de lo
 
 #### Publicidad
 
-Utilizamos Google Ads para mostrar anuncios dentro de la aplicación. Google Ads puede recopilar ciertos datos de los usuarios según sus propias políticas de privacidad con el fin de proporcionar anuncios personalizados. Para obtener más información sobre cómo Google maneja los datos, puede consultar la Política de Privacidad de Google en el siguiente enlace: https://policies.google.com/privacy
+Utilizamos Google Ads para mostrar anuncios dentro de la aplicación. Google Ads puede recopilar ciertos datos de los usuarios según sus propias políticas de privacidad con el fin de proporcionar anuncios personalizados. Para obtener más información sobre cómo Google maneja los datos, puede consultar la Política de Privacidad de Google en el siguiente enlace: [link](https://policies.google.com/privacy).
 
 #### Compartición de Datos
 
